@@ -78,3 +78,4 @@ Before you submit your new JSON file, it is helpful to validate your file at thi
 But any improvements are welcome - just open a pull request with some description.
 
 You're also welcome to discuss the idea on [Gitter Chat](https://gitter.im/pymotivate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
+# motiv
